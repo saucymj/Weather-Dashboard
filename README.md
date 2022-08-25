@@ -8,7 +8,7 @@ In this project I designed a website for users to be able to search up cities an
 
 Website: 
 
-Reppository:
+Reppository: https://github.com/saucymj/Weather-Dashboard
 
 ##Screenshot
 
