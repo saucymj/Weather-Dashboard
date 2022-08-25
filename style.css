@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    display: block;
+}
+
+title {
+    display: none;
+}
+
+#current-weather {
+    border: 3px solid black;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
