@@ -6,9 +6,12 @@ In this project I designed a website for users to be able to search up cities an
 
 ## URL's
 
-Website: 
+Website: https://saucymj.github.io/Weather-Dashboard/
 
 Reppository: https://github.com/saucymj/Weather-Dashboard
 
-##Screenshot
+## Screenshot
+
+![A402B4E2-3699-42B3-8EB3-5B154A39C9ED](https://user-images.githubusercontent.com/106449899/186727174-b4b89795-d067-4d86-ae99-cf8971e8824c.jpeg)
+
 
